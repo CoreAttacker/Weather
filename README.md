@@ -1,7 +1,6 @@
 # Weather
 rust命令行气温查询工具 
 
-
 Command-line temperature lookup tool written in rust
 
 ## 使用方法
