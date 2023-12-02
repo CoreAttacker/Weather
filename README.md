@@ -7,7 +7,7 @@ Command-line temperature lookup tool written in rust
 输入命令为weather <cityname>
 
 Put the address of the compiled executable file into a user variable
-Enter the command weather <cityname>
+Enter the command weather cityname
 
 
 ## 使用实例
